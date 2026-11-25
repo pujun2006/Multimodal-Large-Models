@@ -13,3 +13,5 @@
 - [Implementation of Vision-Language Models](./Implementation%20of%20Vision-Language%20Models)
 ### 第六章：跨模态推理与生成
 - [Cross-modal Reasoning and Generation](./Cross-modal%20Reasoning%20and%20Generation)
+### 第七章：多模态大模型的推理优化
+- [Inference Optimization for Multimodal Large Models](./Inference%20Optimization%20for%20Multimodal%20Large%20Models)
