@@ -11,3 +11,5 @@
 - [Fine-tuning and Optimization of Multimodal Large Models](./Fine-tuning%20and%20Optimization%20of%20Multimodal%20Large%20Models)
 ### 第五章：视觉语言模型的实现
 - [Implementation of Vision-Language Models](./Implementation%20of%20Vision-Language%20Models)
+### 第六章：跨模态推理与生成
+- [Cross-modal Reasoning and Generation](./Cross-modal%20Reasoning%20and%20Generation)
