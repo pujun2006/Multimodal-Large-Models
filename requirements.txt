@@ -7,3 +7,4 @@ onnx==1.23.2
 onnxruntime==1.23.2
 onnxscript==0.7.2
 onnxslim==0.1.99
+tensorrt==11.5.0.63
