@@ -17,3 +17,5 @@
 - [Inference Optimization for Multimodal Large Models](./Inference%20Optimization%20for%20Multimodal%20Large%20Models)
 ### 第八章：多模态大模型的安全与可信问题
 - [Safety and Trustworthiness Issues in Multimodal Large Models](./Safety%20and%20Trustworthiness%20Issues%20in%20Multimodal%20Large%20Models)
+### 第九章：多模态检索与推荐
+- [Multimodal Retrieval and Recommendation](./Multimodal%20Retrieval%20and%20Recommendation)
