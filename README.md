@@ -19,3 +19,5 @@
 - [Safety and Trustworthiness Issues in Multimodal Large Models](./Safety%20and%20Trustworthiness%20Issues%20in%20Multimodal%20Large%20Models)
 ### 第九章：多模态检索与推荐
 - [Multimodal Retrieval and Recommendation](./Multimodal%20Retrieval%20and%20Recommendation)
+### 第十章：多模态语义理解系统
+- [Multimodal Semantic Understanding System](./Multimodal%20Semantic%20Understanding%20System)
